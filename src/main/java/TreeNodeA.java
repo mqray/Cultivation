@@ -3,7 +3,6 @@ import java.util.LinkedList;
 import java.util.List;
 
 public class TreeNodeA<T> implements Iterable<TreeNodeA<T>>{
-
     /**
      * 树节点
      */

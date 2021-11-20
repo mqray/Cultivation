@@ -1,3 +1,4 @@
+import operators.CustomOperator;
 import org.apache.commons.lang3.StringUtils;
 
 public class FilterOperation {

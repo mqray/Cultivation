@@ -1,3 +1,5 @@
+package operators;
+
 public enum CustomOperator {
     OPERATOR_EQUAL,
     OPERATOR_NOT_EQUAL,
